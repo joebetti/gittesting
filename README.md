@@ -1,2 +1,2 @@
-#this doesn't do anything
-#this is just to test git
+#GitTesting
+Sample app, doesn't do anything really.
